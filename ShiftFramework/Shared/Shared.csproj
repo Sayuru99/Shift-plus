@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ShiftSoftware.ShiftEntity.CosmosDbReplication" Version="2024.2.6.2" />
+    <PackageReference Include="ShiftSoftware.ShiftEntity.Model" Version="2024.2.6.2" />
+    <PackageReference Include="ShiftSoftware.TypeAuth.Core" Version="2024.2.6.2" />
+  </ItemGroup>
+
 </Project>
